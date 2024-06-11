@@ -1,0 +1,7 @@
+﻿  Math game.cpp
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Math game\Math game.cpp(383,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Math game\Math game.cpp(230,1): warning C4715: 'SimpleCalculator': not all control paths return a value
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Math game\Math game.cpp(196,1): warning C4715: 'GetLevelAsText': not all control paths return a value
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Math game\Math game.cpp(151,1): warning C4715: 'GenerateNumber': not all control paths return a value
+C:\Users\hp\Documents\Projects\c++ projects\Big projects\Math game\Math game.cpp(174,1): warning C4715: 'GetOperationSymbol': not all control paths return a value
+  Math game.vcxproj -> C:\Users\hp\Documents\Projects\c++ projects\Big projects\Math game\x64\Debug\Math game.exe
